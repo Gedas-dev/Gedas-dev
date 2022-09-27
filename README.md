@@ -1,8 +1,7 @@
 # Hi I'm Gedas.
 
 
-Welcome to my profile! I'm a Software Engineer from United Kingdom. Thanks for visiting and I'd love to [connect]
-(https://www.linkedin.com/in/gedas-k/)!
+Welcome to my profile! I'm a Software Engineer from United Kingdom. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/gedas-k/)!
 
 
 
