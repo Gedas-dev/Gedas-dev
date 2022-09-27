@@ -1,7 +1,4 @@
 # Hi I'm Gedas.
-[![Linkedin Badge](https://img.shields.io/badge/-Gedas Dev-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gedas-k/)](https://www.linkedin.com/in/gedas-k/)
-
-[![Gmail Badge](https://img.shields.io/badge/-abdullahalrifat95-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abdullahalrifat95@gmail.com)](mailto:abdullahalrifat95@gmail.com)
 
 
 Welcome to my profile! I'm a Software Engineer from United Kingdom. Thanks for visiting and I'd love to [connect]
@@ -11,7 +8,7 @@ Welcome to my profile! I'm a Software Engineer from United Kingdom. Thanks for v
 
 
 
-![rifat's github stats](https://github-readme-stats.vercel.app/api?username=gedas-dev&show_icons=true)
+![Gedas DEV github stats](https://github-readme-stats.vercel.app/api?username=gedas-dev&show_icons=true)
 
 
 ### Languages and Tools
