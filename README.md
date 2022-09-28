@@ -1,4 +1,4 @@
-# Hi I'm Gedas.👋
+# Hi I'm Gedas.
 
 
 Welcome to my profile! I'm a Software Engineer from Lithuania 🇱🇹 ✌️ 🇺🇦. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/gedas-k/)!
