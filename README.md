@@ -1,4 +1,4 @@
-# Hi I'm Gedas.I google things for a living....
+# Hi I'm Gedas. I google things for a living....🐐 🔥
 
  
 Welcome to my profile! I'm a Software Engineer from Lithuania 🇱🇹 ✌️ Support Ukraine 🇺🇦. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/gedas-k/)!
