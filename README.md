@@ -1,7 +1,7 @@
 # Hi I'm Gedas. I google things for a living....
 
  
-Welcome to my profile! I'm a Junior Software Developer from Lithuania 🇱🇹 ✌️ I Support Ukraine 🇺🇦. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/gedas-k/)!
+Welcome to my profile! I'm a Junior Software Developer from Lithuania 🇱🇹 currently living in the UK 🇬🇧 ✌️ I Support Ukraine 🇺🇦. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/gedas-k/)!
 
 
 
