@@ -7,7 +7,7 @@ Welcome to my profile! I'm a Junior Software Developer from Lithuania 🇱🇹 c
 
 
 
-![Gedas DEV github stats](https://github-readme-stats.vercel.app/api?username=gedas-dev&show_icons=true)
+![Gedas DEV github stats](https://github-readme-stats.vercel.app/api?username=gedas-dev&theme=graywhite&show_icons=true)
 
 
 ### Languages and Tools
