@@ -33,3 +33,8 @@ Welcome to my profile! I'm a Junior Software Developer from Lithuania 🇱🇹 c
 Gedas-dev/Gedas-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[website]: https://gedas.io
+[twitter]: https://twitter.com/Gedas_dev
+[instagram]: https://www.instagram.com/gedas_dev
+[linkedin]: https://www.linkedin.com/in/gedas-k
+
