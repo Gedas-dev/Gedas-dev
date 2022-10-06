@@ -1,14 +1,8 @@
 # Hi I'm Gedas. I google things for a living....
 
- 
 Welcome to my profile! I'm a Junior Software Developer from Lithuania 🇱🇹 currently living in the UK 🇬🇧 ✌️ I Support Ukraine 🇺🇦. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/gedas-k/)!
 
-
-
-
-
 ![Gedas DEV github stats](https://github-readme-stats.vercel.app/api?username=gedas-dev&theme=graywhite&show_icons=true)
-
 
 ### Languages and Tools
 
@@ -24,11 +18,8 @@ Welcome to my profile! I'm a Junior Software Developer from Lithuania 🇱🇹 c
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gedas-dev.gedas-dev)
  
-
-
 <!---
 Gedas-dev/Gedas-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
