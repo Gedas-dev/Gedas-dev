@@ -24,8 +24,8 @@ Welcome to my profile! I'm a Junior Software Developer from Lithuania 🇱🇹 c
 ### AI Tools
 
 <p>
-  <img height="40" src="./profile/icons/claude.svg" alt="Claude" title="Claude" />
-  <img height="40" src="./profile/icons/chatgpt.svg" alt="ChatGPT" title="ChatGPT" />
+  <img height="40" src="./profile/icons/ai-claude.svg" alt="Claude" title="Claude" />
+  <img height="40" src="./profile/icons/ai-chatgpt.svg" alt="ChatGPT" title="ChatGPT" />
 </p>
 
 ### Connect with me
