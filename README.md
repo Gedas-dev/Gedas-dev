@@ -19,6 +19,11 @@ Welcome to my profile! I'm a Junior Software Developer from Lithuania 🇱🇹 c
   <img height="40" src="./profile/icons/java.svg" alt="Java" title="Java" />
   <img height="40" src="./profile/icons/mysql.svg" alt="MySQL" title="MySQL" />
   <img height="40" src="./profile/icons/git.svg" alt="Git" title="Git" />
+</p>
+
+### AI Tools
+
+<p>
   <img height="40" src="./profile/icons/claude.svg" alt="Claude" title="Claude" />
   <img height="40" src="./profile/icons/chatgpt.svg" alt="ChatGPT" title="ChatGPT" />
 </p>
