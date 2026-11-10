@@ -2,37 +2,39 @@
 
 Welcome to my profile! I'm a Junior Software Developer from Lithuania 🇱🇹 currently living in the UK 🇬🇧 ✌️ I Support Ukraine 🇺🇦. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/gedas-k/)!
 
-![Gedas DEV github stats](./profile/stats.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+  <img src="./profile/stats.svg" alt="Gedas DEV GitHub stats" />
+</picture>
 
 ### Languages and Tools
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<p>
+  <img height="40" src="./profile/icons/html.svg" alt="HTML" title="HTML" />
+  <img height="40" src="./profile/icons/css.svg" alt="CSS" title="CSS" />
+  <img height="40" src="./profile/icons/python.svg" alt="Python" title="Python" />
+  <img height="40" src="./profile/icons/javascript.svg" alt="JavaScript" title="JavaScript" />
+  <img height="40" src="./profile/icons/react.svg" alt="React" title="React" />
+  <img height="40" src="./profile/icons/django.svg" alt="Django" title="Django" />
+  <img height="40" src="./profile/icons/java.svg" alt="Java" title="Java" />
+  <img height="40" src="./profile/icons/mysql.svg" alt="MySQL" title="MySQL" />
+  <img height="40" src="./profile/icons/git.svg" alt="Git" title="Git" />
+  <img height="40" src="./profile/icons/claude.svg" alt="Claude" title="Claude" />
+  <img height="40" src="./profile/icons/chatgpt.svg" alt="ChatGPT" title="ChatGPT" />
+</p>
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+### Connect with me
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<p>
+  <a href="https://gedas.io"><img height="32" src="./profile/icons/website.svg" alt="Website" title="Website" /></a>
+  <a href="https://twitter.com/Gedas_dev"><img height="32" src="./profile/icons/twitter.svg" alt="Twitter" title="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/gedas-k"><img height="32" src="./profile/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" /></a>
+  <a href="https://www.instagram.com/gedas_dev"><img height="32" src="./profile/icons/instagram.svg" alt="Instagram" title="Instagram" /></a>
+</p>
 
-### Connect with me:
-[<img align="left" alt="fullstacked.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="fullstacked.com | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="fullstacked.com | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="fullstacked.com | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
-<br />
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gedas-dev.gedas-dev)
- 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gedas-dev.gedas-dev)
+
 <!---
 Gedas-dev/Gedas-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[website]: https://gedas.io
-[twitter]: https://twitter.com/Gedas_dev
-[instagram]: https://www.instagram.com/gedas_dev
-[linkedin]: https://www.linkedin.com/in/gedas-k
-
