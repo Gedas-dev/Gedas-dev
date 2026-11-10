@@ -2,7 +2,7 @@
 
 Welcome to my profile! I'm a Junior Software Developer from Lithuania 🇱🇹 currently living in the UK 🇬🇧 ✌️ I Support Ukraine 🇺🇦. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/gedas-k/)!
 
-![Gedas DEV github stats](https://github-readme-stats.vercel.app/api?username=gedas-dev&theme=graywhite&show_icons=true)
+![Gedas DEV github stats](./profile/stats.svg)
 
 ### Languages and Tools
 
