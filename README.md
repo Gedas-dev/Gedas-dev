@@ -1,4 +1,4 @@
-# Hi I'm Gedas. I google things for a living....
+# Hi, I'm Gedas. I used to google things for a living... now I ask AI nicely and we build stuff together 🤖
 
 Welcome to my profile! I'm a Software Developer from Lithuania 🇱🇹 currently living in the UK 🇬🇧 ✌️ I Support Ukraine 🇺🇦. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/gedas-k/)!
 
