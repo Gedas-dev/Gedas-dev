@@ -26,7 +26,6 @@ Welcome to my profile! I'm a Junior Software Developer from Lithuania 🇱🇹 c
 ### Connect with me
 
 <p>
-  <a href="https://gedas.io"><img height="32" src="./profile/icons/website.svg" alt="Website" title="Website" /></a>
   <a href="https://twitter.com/Gedas_dev"><img height="32" src="./profile/icons/twitter.svg" alt="Twitter" title="Twitter" /></a>
   <a href="https://www.linkedin.com/in/gedas-k"><img height="32" src="./profile/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" /></a>
   <a href="https://www.instagram.com/gedas_dev"><img height="32" src="./profile/icons/instagram.svg" alt="Instagram" title="Instagram" /></a>
