@@ -1,7 +1,5 @@
 # I used to google things for a living... now I ask AI and we build together
 
-Welcome to my profile! I'm a Software Developer from Lithuania 🇱🇹 currently living in the UK 🇬🇧 ✌️ I Support Ukraine 🇺🇦. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/gedas-k/)!
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
   <img src="./profile/stats.svg" alt="Gedas DEV GitHub stats" />
